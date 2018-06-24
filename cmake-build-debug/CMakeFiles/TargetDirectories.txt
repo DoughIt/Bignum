@@ -1,0 +1,3 @@
+/home/oops/Learning/OOP/Bignum/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/oops/Learning/OOP/Bignum/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/oops/Learning/OOP/Bignum/cmake-build-debug/CMakeFiles/Bignum.dir
